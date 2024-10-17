@@ -9,7 +9,7 @@ I am a frontend developer who works and love React!
 *   🌍  I'm based in Vila Nova de Famalicão
 *   ✉️  You can contact me at [goncalvesfabio227@gmail.com](mailto:goncalvesfabio227@gmail.com)
 *   🚀  I'm currently working on TTRPG Web app
-*   🧠  I'm learning about learn Angular, VueJS and Typescript
+*   🧠  I'm learning about Angular, VueJS and Typescript
 *   🤝  I'm open to collaborating on Any kind of Projects
 *   ⚡  If you have problems just cast Fireball
 
